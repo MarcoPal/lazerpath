@@ -1,6 +1,6 @@
 {
   "name": "lazerpath",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "LazerPath helps you to quickly create your project structure and fill it with predefined templates.",
   "main": "./lib/index.js",
   "scripts": {
