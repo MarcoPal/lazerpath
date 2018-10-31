@@ -1,0 +1,26 @@
+{
+  "name": "lazerpath",
+  "version": "1.0.0",
+  "description": "LazerPath helps you to quickly create your project structure and fill it with predefined templates.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoPal/lazerpath.git"
+  },
+  "keywords": [
+    "lazerpath",
+    "node",
+    "project",
+    "structure",
+    "paths"
+  ],
+  "bin": {
+    "lazerpath": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "author": "MarcoPal",
+  "license": "MIT"
+}
