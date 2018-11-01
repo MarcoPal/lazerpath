@@ -3,7 +3,14 @@ LazerPath helps you to quickly create your project structure and fill it with pr
 
 LazerPath should be installed globally
 ```
-npm i -g lazerpath
+$ npm i -g lazerpath
+```
+
+Options:
+```
+  -v, --version  output the version number
+  -t, --test     test your paths, no file or folder will be created
+  -h, --help     output usage information
 ```
 
 
@@ -192,5 +199,5 @@ exports.paths = {
 
 ### Test Mode
 If you want to test your configuration file before to actually create the paths,  
-use the command "lazerpath test"   
+use the command "lazerpath -t" or "lazerpath --test"   
 ![lazerpathterminaltest](https://boardvsgame.com/lazerpath/test.png)
