@@ -14,7 +14,7 @@ Options:
 ```
 
 
-Then you'll need to ad a **lazerpath.config.js** file into the folder you want to process.
+You'll need to add a **lazerpath.config.js** file into the folder you want to process.
 
 ### Basic Example  
 
